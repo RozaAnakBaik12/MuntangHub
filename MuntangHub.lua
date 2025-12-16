@@ -1,5 +1,5 @@
 -- MuntangHub | Simple UI
--- By: Kamu sendiri 😎
+-- By: LizzGemink
 
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
